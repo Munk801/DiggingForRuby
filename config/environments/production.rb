@@ -79,6 +79,6 @@
 
   # Defined from Devise for heroku
   # TODO switch this from local host to actual production website
-  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+  config.action_mailer.default_url_options = { :host => 'slu-picapic.herokuapp.com' }
 
 end
